@@ -91,6 +91,7 @@ INSTALLED_APPS = [
     'django.contrib.sitemaps',
     'django.contrib.syndication',
     'django.contrib.staticfiles',
+    'django.contrib.gis',
 ]
 
 TEMPLATES = [
